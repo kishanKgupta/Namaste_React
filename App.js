@@ -35,4 +35,4 @@ const parent = React.createElement(
 )
 const root = ReactDOM.createRoot(document.querySelector(".root"));
 root.render(parent);
-console.log(parent);
+

@@ -14,5 +14,8 @@
     "react"
   ],
   "author": "kishan gupta",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
 }
